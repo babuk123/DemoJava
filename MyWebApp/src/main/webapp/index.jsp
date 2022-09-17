@@ -4,7 +4,7 @@
 <title>Some relevant title</title>
 </head>
 <body>
-	<h2>Hi Everyone ,Welcome to Azure Build Pipeline! We are migrating Java WebApp from Github in Azure Cloud!!</h2>
+	<h2>Hi Everyone!!!</h2>
 
 </body>
 </html>
